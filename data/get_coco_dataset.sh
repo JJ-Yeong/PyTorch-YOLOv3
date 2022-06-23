@@ -2,6 +2,8 @@
 
 # CREDIT: https://github.com/pjreddie/darknet/tree/master/scripts/get_coco_dataset.sh
 
+cd /content/PyTorch-YOLOv3/data
+
 # Clone COCO API
 git clone https://github.com/pdollar/coco
 cd coco
